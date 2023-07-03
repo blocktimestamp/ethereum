@@ -9,12 +9,12 @@ block data is grouped in 30000 rows
 #### last block
 ```
 Object {
-  block: 16386000,
-  timestamp: 1673469527,
-  key: blocks/16410000.json
+  block: 17610000,
+  key: blocks/17610000.json
 }
 
-1673469527 - 2023-01-11T20:38:47.000Z
+1688345459 - 2023-07-03T00:50:59.000Z
+
 ```
 
 will update periodically to more recent block
